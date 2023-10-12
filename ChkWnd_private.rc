@@ -18,15 +18,15 @@ FILETYPE VFT_APP
   {
     BLOCK "040904e4"
     {
-      VALUE "CompanyName", "//-\\. //\\//. - SW"
-      VALUE "FileVersion", "1.0.0.0"
-      VALUE "FileDescription", "Suche Fenster mit bestimmten Text im Titel"
+      VALUE "CompanyName", "//-\\. //\\//. - Software"
+      VALUE "FileVersion", "1.0.0.42"
+      VALUE "FileDescription", "Suche Fenster mit bestimmten Text im Titel (Check Window exists)"
       VALUE "InternalName", "Check Window"
-      VALUE "LegalCopyright", "(c) - 2023"
+      VALUE "LegalCopyright", "Alexander NEUMEISTER (c) 2023"
       VALUE "LegalTrademarks", ""
       VALUE "OriginalFilename", "ChkWnd.exe"
       VALUE "ProductName", "ChkWnd"
-      VALUE "ProductVersion", "1.0.0.0"
+      VALUE "ProductVersion", "1.0.0.42"
     }
   }
   BLOCK "VarFileInfo"
